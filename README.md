@@ -4,7 +4,7 @@ The program translates mRNA codons (sequences of three consecutive nucleotides) 
 
 *Code features:*
 * INPUT validity control: Checks for invalid characters, incomplete codons, missing input, starting codon, and stop codon. <br>
-* File-based I/O:** Reads nucleotide characters from `codons.txt` (ignoring spaces and newlines) and outputs the translated sequence or status messages to `proteins.txt`. <br>
+* File-based I/O: Reads nucleotide characters from `codons.txt` (ignoring spaces and newlines) and outputs the translated sequence or status messages to `proteins.txt`. <br>
 
 
 ###### open source is love <3
